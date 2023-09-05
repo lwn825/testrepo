@@ -1,2 +1,2 @@
 # testrepo
-A test from Cousera
+A test from Cousera of Data Science
